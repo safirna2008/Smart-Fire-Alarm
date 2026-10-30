@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fire Alarm IoT Dashboard",
+  "description": "Aplikasi deteksi kebakaran dini berbasis IoT dengan dashboard glassmorphism realtime, sensor MQ2, Flame IR, DHT22, dan aktuator otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
